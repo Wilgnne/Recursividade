@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fibonacci_Quantas_Chamadas/Fibonacci_Quantas_Chamadas.csproj": {}
+  },
+  "projects": {
+    "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fibonacci_Quantas_Chamadas/Fibonacci_Quantas_Chamadas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fibonacci_Quantas_Chamadas/Fibonacci_Quantas_Chamadas.csproj",
+        "projectName": "Fibonacci_Quantas_Chamadas",
+        "projectPath": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fibonacci_Quantas_Chamadas/Fibonacci_Quantas_Chamadas.csproj",
+        "packagesPath": "/home/wilgnne/.nuget/packages/",
+        "outputPath": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fibonacci_Quantas_Chamadas/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/wilgnne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

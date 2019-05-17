@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/bin/Debug/netcoreapp2.2/Soma_de_Fatoriais.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/bin/Debug/netcoreapp2.2/Soma_de_Fatoriais.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/bin/Debug/netcoreapp2.2/Soma_de_Fatoriais.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/bin/Debug/netcoreapp2.2/Soma_de_Fatoriais.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/bin/Debug/netcoreapp2.2/Soma_de_Fatoriais.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/Debug/netcoreapp2.2/Soma_de_Fatoriais.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/Debug/netcoreapp2.2/Soma_de_Fatoriais.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/Debug/netcoreapp2.2/Soma_de_Fatoriais.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/Debug/netcoreapp2.2/Soma_de_Fatoriais.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/Debug/netcoreapp2.2/Soma_de_Fatoriais.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/Debug/netcoreapp2.2/Soma_de_Fatoriais.pdb

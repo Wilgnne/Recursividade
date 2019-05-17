@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/Soma_de_Fatoriais.csproj": {}
+  },
+  "projects": {
+    "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/Soma_de_Fatoriais.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/Soma_de_Fatoriais.csproj",
+        "projectName": "Soma_de_Fatoriais",
+        "projectPath": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/Soma_de_Fatoriais.csproj",
+        "packagesPath": "/home/wilgnne/.nuget/packages/",
+        "outputPath": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Soma_de_Fatoriais/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/wilgnne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/bin/Debug/netcoreapp2.2/Fatorial_Simples.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/bin/Debug/netcoreapp2.2/Fatorial_Simples.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/bin/Debug/netcoreapp2.2/Fatorial_Simples.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/bin/Debug/netcoreapp2.2/Fatorial_Simples.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/bin/Debug/netcoreapp2.2/Fatorial_Simples.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/obj/Debug/netcoreapp2.2/Fatorial_Simples.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/obj/Debug/netcoreapp2.2/Fatorial_Simples.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/obj/Debug/netcoreapp2.2/Fatorial_Simples.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/obj/Debug/netcoreapp2.2/Fatorial_Simples.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/obj/Debug/netcoreapp2.2/Fatorial_Simples.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Fatorial_Simples/obj/Debug/netcoreapp2.2/Fatorial_Simples.pdb

@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/bin/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/bin/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/bin/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/bin/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/bin/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/obj/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/obj/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/obj/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/obj/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/obj/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/Recursividade/Quantas_Chamadas_Recursivas/obj/Debug/netcoreapp2.2/Quantas_Chamadas_Recursivas.pdb
